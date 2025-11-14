@@ -1,4 +1,6 @@
-Generate a single-line Windows PowerShell command to create the following project structure. First create and enter the root folder using `md <root>; cd <root>;` and then create all subfolders and files with exactly one `md` and one `ni` (New-Item) commands (starting with subfolder paths without the root name). Use comma-separated paths in both commands. Output only the command.
+Generate a single-line Windows PowerShell command to create the following project structure.
+First create and enter the root folder using `md <root>; cd <root>;` and then create all subfolders and files with exactly one `md` and one `ni` (New-Item) commands (starting with subfolder paths without the root name).
+Use comma-separated paths in both commands. Output only the command.
 Structure:
 express-ejs-pgsql/
 ├── src/
